@@ -87,11 +87,6 @@ The **Expense Tracker App** is a personal finance management application develop
 
 ---
 
-## License
-
-This project is licensed under the MIT License. Free to use, modify, and distribute.
-
----
 
 ## Author
 
