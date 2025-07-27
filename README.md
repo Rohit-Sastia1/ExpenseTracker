@@ -92,4 +92,13 @@ The **Expense Tracker App** is a personal finance management application develop
 
 Developed as part of Task 01 – Android Expense Tracker Project for educational purposes.
 
+---
+
+##Output
+
+![Image](https://github.com/user-attachments/assets/396107f6-af59-41dd-9c12-ff6a7937692f)
+![Image](https://github.com/user-attachments/assets/08c00ed1-c787-4bc9-9865-008e19dc5afe)
+![Image](https://github.com/user-attachments/assets/d24ac0aa-8afd-4fb7-94cb-52729a1c36c2)
+![Image](https://github.com/user-attachments/assets/5c63e4db-2185-4064-b81a-f388f65779c5)
+
 
