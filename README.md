@@ -1,4 +1,4 @@
-##ExpenseTracker
+# ExpenseTracker
 
 *COMPANY*: CODTECH IT SOLUTIONS
 
@@ -94,7 +94,7 @@ Developed as part of Task 01 – Android Expense Tracker Project for educational
 
 ---
 
-##Output
+## Output
 
 ![Image](https://github.com/user-attachments/assets/396107f6-af59-41dd-9c12-ff6a7937692f)
 ![Image](https://github.com/user-attachments/assets/08c00ed1-c787-4bc9-9865-008e19dc5afe)
